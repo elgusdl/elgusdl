@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=뱃지모양&logo=Instagram&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<a href="https://www.instagram.com/2elgusdl/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=appveyor&logo=Instagram&logoColor=white"/></a>
