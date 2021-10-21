@@ -10,23 +10,15 @@
 <br/>
 
 👋&nbsp;&nbsp;Hi there How is it going?<br/>
-I'm web_publisher.🎨
-<br/><br/>
-I've worked as a web designer from 2019 to 2021.<br/>
-I think that the developers who knows how to design have an infinite possibilities! 🔥🎨
-<br/><br/>
-I’d love to work with your company oneday.&nbsp;&nbsp;👥 🌎 🌍 🌏<br/>
-Feel free to contact me if you're interested in working with me!<br/>
-I look forward to hearing from you! 💥
-<br/>
+I'm web_publisher.🎨<br/>
 <div>
 <a href="mailto:elgusdl14@naver.com" target="_blank"><img src="http://img.shields.io/badge/-elgusdl14@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp;
 <a href="https://open.kakao.com/o/s4to6mEd" target="_blank"><img src="http://img.shields.io/badge/-Kakao-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=333"/></a>&nbsp;
 <a href="https://www.instagram.com/2elgusdl/" target="_blank"><img src="http://img.shields.io/badge/-2elgusdl-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a><br/>
-<a href="https://kwons0.github.io/kwons0/"><img src="http://img.shields.io/badge/-You can see my portfolio here!-1a73e8?style=flat-square&logo=Google Chrome&logoColor=white"/></a>
+<a href="https://elgusdl.github.io/ljhportfolio/"><img src="http://img.shields.io/badge/-You can see my portfolio here!-1a73e8?style=flat-square&logo=Google Chrome&logoColor=white"/></a>
 </div>
 
-<br/><br/>
+<br/>
 
 <p>💡 Technology Stack 💡</p>
 
@@ -50,8 +42,6 @@ I look forward to hearing from you! 💥
 <a><img src="http://img.shields.io/badge/-Zeplin-F4B728?style=flat-square&logo=Zerply&logoColor=111"/></a>&nbsp;
 <a><img src="http://img.shields.io/badge/-Google Meet-00897B?style=flat-square&logo=Google Meet&logoColor=white"/></a>&nbsp;
 <a><img src="http://img.shields.io/badge/-Zoom-2D8CFF?style=flat-square&logo=Zoom&logoColor=white"/></a>&nbsp;
-<a><img src="http://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>&nbsp;
-<a><img src="http://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=Trello&logoColor=white"/></a>
 </div>
 
 <br/><br/>
