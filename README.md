@@ -15,7 +15,7 @@ I'm web_publisher.🎨<br/><br/>
 
 <div>
 <a href="mailto:elgusdl14@naver.com" target="_blank"><img src="http://img.shields.io/badge/-elgusdl14@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp;
-<a href="https://open.kakao.com/o/s4to6mEd" target="_blank"><img src="http://img.shields.io/badge/-Kakao-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=333"/></a>&nbsp;
+<a href="https://open.kakao.com/o/s0Ym34Fd" target="_blank"><img src="http://img.shields.io/badge/-Kakao-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=333"/></a>&nbsp;
 <a href="https://www.instagram.com/2elgusdl/" target="_blank"><img src="http://img.shields.io/badge/-2elgusdl-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a><br/>
 <a href="https://elgusdl.github.io/ljhportfolio/"><img src="http://img.shields.io/badge/-You can see my portfolio here!-1a73e8?style=flat-square&logo=Google Chrome&logoColor=white"/></a>
 </div>
